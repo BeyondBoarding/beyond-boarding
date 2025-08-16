@@ -1,14 +1,13 @@
-
-import 'import '../styles/globals.css'
+import '../styles/globals.css'
 import Header from '../components/Header'
 import Footer from '../components/Footer'
 
 export const metadata = {
   title: 'Beyond Boarding',
-  description: 'Curated journeys that go beyond a momentary escape.'
+  description: 'Curated journeys that go beyond a momentary escape.',
 }
 
-export default function RootLayout({ children }){
+export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body>
