@@ -1,0 +1,68 @@
+[
+  {
+    "slug": "jamaica-oct-2025",
+    "name": "Jamaica Escape \u2014 October 2025",
+    "location": "Ocho Rios, Jamaica",
+    "type": "International",
+    "startDate": "2025-10-05",
+    "endDate": "2025-10-10",
+    "price": 2600,
+    "depositPct": 0.2,
+    "waitlist": false
+  },
+  {
+    "slug": "costa-rica-oct-2025",
+    "name": "Costa Rica Eco-Luxe \u2014 October 2025",
+    "location": "Arenal & Pacific Coast, Costa Rica",
+    "type": "International",
+    "startDate": "2025-10-15",
+    "endDate": "2025-10-21",
+    "price": 2200,
+    "depositPct": 0.2,
+    "waitlist": false
+  },
+  {
+    "slug": "miami-dec-2025",
+    "name": "Miami Weekender \u2014 December 2025",
+    "location": "Miami, Florida",
+    "type": "Domestic",
+    "startDate": "2025-12-05",
+    "endDate": "2025-12-08",
+    "price": 1275,
+    "depositPct": 0.2,
+    "waitlist": false
+  },
+  {
+    "slug": "south-africa-dec-2025",
+    "name": "South Africa Journey \u2014 December 2025",
+    "location": "Johannesburg & Cape Town, South Africa",
+    "type": "International",
+    "startDate": "2025-12-10",
+    "endDate": "2025-12-19",
+    "price": 3200,
+    "depositPct": 0.2,
+    "waitlist": false
+  },
+  {
+    "slug": "cape-cod-new-years-2025",
+    "name": "Cape Cod New Year\u2019s Escape \u2014 3 Days",
+    "location": "Cape Cod, Massachusetts",
+    "type": "Domestic",
+    "startDate": "2025-12-30",
+    "endDate": "2026-01-02",
+    "price": 1450,
+    "depositPct": 0.2,
+    "waitlist": false
+  },
+  {
+    "slug": "cape-cod-wellness-fall-2025",
+    "name": "Cape Cod Health & Wellness Retreat \u2014 4 Days (Waitlist)",
+    "location": "Cape Cod, Massachusetts",
+    "type": "Domestic",
+    "startDate": "2025-10-24",
+    "endDate": "2025-10-27",
+    "price": 1450,
+    "depositPct": 0.2,
+    "waitlist": true
+  }
+]
